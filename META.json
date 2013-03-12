@@ -1,7 +1,7 @@
 {
    "abstract" : "an empty module that can only be installed on Windows",
    "author" : [
-      "Toby Inkster <#EMAIL#>"
+      "Toby Inkster <tobyink@cpan.org>"
    ],
    "dynamic_config" : 1,
    "generated_by" : "ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.120921",
@@ -35,5 +35,5 @@
       }
    },
    "release_status" : "testing",
-   "version" : "0.000_01"
+   "version" : "0.000_02"
 }
