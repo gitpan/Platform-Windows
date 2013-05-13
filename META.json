@@ -44,8 +44,8 @@
          "http://dev.perl.org/licenses/"
       ],
       "repository" : {
-         "url" : "https://bitbucket.org/tobyink/p5-platform"
+         "url" : "https://github.com/tobyink/p5-platform"
       }
    },
-   "version" : "0.001"
+   "version" : "0.002"
 }

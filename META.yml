@@ -22,5 +22,5 @@ resources:
   bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=Platform-Windows
   homepage: https://metacpan.org/release/Platform-Windows
   license: http://dev.perl.org/licenses/
-  repository: https://bitbucket.org/tobyink/p5-platform
-version: 0.001
+  repository: https://github.com/tobyink/p5-platform
+version: 0.002
